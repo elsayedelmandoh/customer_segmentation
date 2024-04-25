@@ -39,7 +39,7 @@ This project focuses on customer segmentation and personalization in the context
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions, improvements, or additional content to contribute, feel free to open issues, submit pull requests, or provide feedback. Your contributions help make this repository a valuable resource for the community.
+Contributions are welcome! If you have suggestions, improvements, or additional content to contribute, feel free to open issues, submit pull requests, or provide feedback. 
 
 ## Author
 
